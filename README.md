@@ -1,6 +1,6 @@
 # ADALINE Neural Network Noise Cancelation
 
-Adaptive noise cancelation by implementing a filter using the ADALINE NN and train it by using the Widrow-Hoff Learning Rule using the noise source, that has corrupted the speech *x(n)*.
+Adaptive noise cancelation by implementing a filter using the ADALINE NN and train it by using the Widrow-Hoff Learning Rule using the noise source *x(n)*, that has corrupted the speech.
 
 <p align="center">
     <img width="400" src="https://github.com/joscarvalho/AdalineNN/blob/main/Img/Overview.png?raw=true" alt="Overview"/>
